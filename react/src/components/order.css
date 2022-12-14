@@ -1,0 +1,21 @@
+body{
+    height:100vh;
+    
+  }
+
+  label{
+    font-size: larger;
+    font-weight: bold;
+    
+  }
+
+  input{
+    background: none;
+    outline: none;
+    border:none;
+    border-bottom: 1px solid black;
+   
+  }
+
+
+  
